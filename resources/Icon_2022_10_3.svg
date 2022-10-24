@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Icon_2022_10_3.svg"
+   inkscape:export-filename="D:\User\itota\Projects\Quwon\resources\Icon_2022_10_3.png"
+   inkscape:export-xdpi="130.048"
+   inkscape:export-ydpi="130.048"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.97764853"
+     inkscape:cx="177.97807"
+     inkscape:cy="184.62668"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#404040;stroke-width:4.00428;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="rect850"
+       width="100"
+       height="100"
+       x="0"
+       y="0"
+       ry="24.877577"
+       inkscape:export-filename="D:\User\itota\Projects\Quwon\resources\Icon_2022_10_1.png"
+       inkscape:export-xdpi="130.048"
+       inkscape:export-ydpi="130.048" />
+    <path
+       id="rect850-2"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:13.6208;stroke-linecap:round;stroke-linejoin:round"
+       d="M 100.45117 18.898438 C 55.270062 18.898438 18.898438 55.270062 18.898438 100.45117 L 18.898438 277.5 C 18.898438 322.68111 55.270062 359.05469 100.45117 359.05469 L 277.5 359.05469 C 322.68111 359.05469 359.05469 322.68111 359.05469 277.5 L 359.05469 100.45117 C 359.05469 55.270062 322.68111 18.898438 277.5 18.898438 L 100.45117 18.898438 z M 104.15039 37.794922 L 273.80273 37.794922 C 310.56373 37.794922 340.1582 67.389398 340.1582 104.15039 L 340.1582 273.80273 C 340.1582 310.56373 310.56373 340.1582 273.80273 340.1582 L 104.15039 340.1582 C 67.389398 340.1582 37.794922 310.56373 37.794922 273.80273 L 37.794922 104.15039 C 37.794922 67.389398 67.389398 37.794922 104.15039 37.794922 z M 113.38672 103.9375 C 92.448136 103.9375 75.589844 120.79384 75.589844 141.73242 L 75.589844 217.32227 C 75.589844 238.26084 92.448136 255.11914 113.38672 255.11914 C 118.9853 255.11914 124.29181 253.91232 129.0625 251.74609 L 161.57422 283.46484 L 188.97656 261.18555 L 216.37891 283.46484 L 248.89062 251.74609 C 253.66132 253.91232 258.96782 255.11914 264.56641 255.11914 C 285.50499 255.11914 302.36133 238.26084 302.36133 217.32227 L 302.36133 141.73242 C 302.36133 120.79384 285.50499 103.9375 264.56641 103.9375 C 243.62782 103.9375 226.77148 120.79384 226.77148 141.73242 L 226.77148 217.32227 C 226.77148 225.33411 229.24655 232.74254 233.4668 238.84375 L 216.37891 255.11719 L 188.97656 236.2207 L 161.57422 255.11719 L 144.48633 238.84375 C 148.70658 232.74254 151.18164 225.33411 151.18164 217.32227 L 151.18164 141.73242 C 151.18164 120.79384 134.3253 103.9375 113.38672 103.9375 z M 113.38672 122.83594 C 123.85601 122.83594 132.2832 132.94857 132.2832 145.51172 L 132.2832 213.54297 C 132.2832 226.10612 123.85601 236.2207 113.38672 236.2207 C 102.91743 236.2207 94.488281 226.10612 94.488281 213.54297 L 94.488281 145.51172 C 94.488281 132.94857 102.91743 122.83594 113.38672 122.83594 z M 264.56641 122.83594 C 275.03569 122.83594 283.46484 132.94857 283.46484 145.51172 L 283.46484 213.54297 C 283.46484 226.10612 275.03569 236.2207 264.56641 236.2207 C 254.09711 236.2207 245.66992 226.10612 245.66992 213.54297 L 245.66992 145.51172 C 245.66992 132.94857 254.09711 122.83594 264.56641 122.83594 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+# quwon workspace Cargo.toml
+
+[workspace]
+mambers = [
+    "quwon_utility"
+]
